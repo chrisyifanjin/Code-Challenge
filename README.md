@@ -19,4 +19,7 @@ https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#
 
 - Create a web with title **Next to Jump**
 - add colour to title
-- http://127.0.0.1:5000/
+- website: http://127.0.0.1:5000/
+
+### Step 2: Add data
+- website: http://127.0.0.1:5000/api/v1/information/all
