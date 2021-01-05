@@ -22,4 +22,4 @@ https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#
 - website: http://127.0.0.1:5000/
 
 ### Step 2: Add data
-- website: http://127.0.0.1:5000/api/v1/information/all
+- website: http://127.0.0.1:5000/api/v1/information/races/all
