@@ -12,3 +12,6 @@ It should return the race type, race number, race name, venue and the race start
 ### Language: 
 I am most familiar with R. However, it is a statistical programming language. I choose to use **Python** since it is a general-purpose programming language, it is more likely that more resources avaible on how to create API.
 
+### Resources: 
+https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#what-is-an-api
+
