@@ -23,3 +23,7 @@ https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#
 
 ### Step 2: Add data
 - website: http://127.0.0.1:5000/api/v1/information/races/all
+
+### Step 3: Use id to identify information
+- website: http://127.0.0.1:5000/api/v1/information/races?race%20number=1
+- **1** in the last digit can be changed to any other race number available
