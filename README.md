@@ -15,3 +15,8 @@ I am most familiar with R. However, it is a statistical programming language. I 
 ### Resources: 
 https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#what-is-an-api
 
+### Step 1: Creating a working web application
+
+- Create a web with title **Next to Jump**
+- add colour to title
+
